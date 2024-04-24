@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: stump-app
+category: media
+name: Stump
+version: "1.0.0"
+tagline: Read Comics and Manga
+description: >-
+  Designed to be fast, beautiful, configurable, and easy to use. Curate your digital library and stream your media to any device, supporting a wide range of file formats.
+releaseNotes: >-
+  This version also includes lots of minor styling improvements, better
+  error handling, and several bugfixes.
+developer: stumpapp
+website: https://www.stumpapp.dev
+dependencies:
+  - comics
+  - manga
+repo: https://github.com/stumpapp/stump
+support: https://github.com/stumpapp/stump
+port: 10801
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: retronerd
+submission: https://github.com/
